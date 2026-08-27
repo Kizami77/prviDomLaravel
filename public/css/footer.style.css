@@ -1,0 +1,25 @@
+
+
+
+/* public/css/footer.style.css */
+
+footer {
+    background-color: #222222; /* tamno siva pozadina */
+    color: #ffffff;            /* bela boja teksta */
+    padding: 20px 0;           /* razmak gore i dole */
+    text-align: center;        /* centriran tekst */
+    font-family: Arial, sans-serif;
+}
+
+footer p {
+    margin: 0;                 /* uklanja podrazumevani razmak paragrafa */
+    font-size: 14px;
+
+}
+ .contact {
+     text-align: center;
+ }
+ p.mapa{
+     text-align: center;
+     text-decoration-style: double;
+ }

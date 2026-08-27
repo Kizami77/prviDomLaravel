@@ -1,0 +1,8 @@
+// napravi templating sistem na domacem
+ * shop about glavna
+ * bootstrap 5
+ * napravite nav i stilizuj
+ * stilizuj footer
+ * nparavi kontakt stranicu
+  - kontakt forma od podataka (emai,tema-subject,poruka)
+  * ugraditi mapu
