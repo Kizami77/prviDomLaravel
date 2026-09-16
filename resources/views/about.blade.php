@@ -8,7 +8,7 @@
 <body>
 
   @section('sadrzajStranice')
-      <h2 class="nav justify-content-center p-3">Ovo je about stranica na kojoj ce biti tema o</h2>
+      <h2 class="nav justify-content-center p-3d">Ovo je about stranica na kojoj ce biti tema o</h2>
   @endsection
 
 

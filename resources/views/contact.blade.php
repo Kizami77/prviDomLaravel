@@ -35,18 +35,18 @@
                      <form action="#" method="POST">
                          @csrf
                          <div class="mb-3">
-                             <label for="name" class="form-label">Vaše Ime</label>
-                             <input type="text" class="form-control custom-input" id="name" name="name" required placeholder="Petar Petrović">
+                             <label for="name" class="form-label">Vaša email adresa</label>
+                             <input type="text" class="form-control custom-input" name="email" required placeholder="ime@primer.com">
                          </div>
 
                          <div class="mb-3">
-                             <label for="email" class="form-label">E-mail Adresa</label>
-                             <input type="email" class="form-control custom-input" id="email" name="email" required placeholder="ime@primer.com">
+                             <label for="subject" class="form-label">Vasa tema</label>
+                             <input type="text" class="form-control custom-input"  name="subject" required placeholder="vasa tema">
                          </div>
 
                          <div class="mb-3">
                              <label for="message" class="form-label">Poruka</label>
-                             <textarea class="form-control custom-input" id="message" name="message" rows="5" required placeholder="Napišite vašu poruku ovde..."></textarea>
+                             <textarea class="form-control custom-input"  name="message" rows="5" required placeholder="Napišite vašu poruku ovde..."></textarea>
                          </div>
 
                          <button type="submit" class="btn btn-primary w-100 btn-custom">Pošalji Poruku</button>

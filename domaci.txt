@@ -6,3 +6,20 @@
  * nparavi kontakt stranicu
   - kontakt forma od podataka (emai,tema-subject,poruka)
   * ugraditi mapu
+
+  - zavrsen domaci posalt na github
+
+  {predavanje kursa git i github stao sam na osnove git-a 1.12}
+
+  // nastavak domaceg
+  // uvezi novu navigaciju
+  // napravi migraciju za proizvode (Products)
+  Podaci: id,name,description,amount,price,image
+  // Bonus
+    - napravi model za Products
+
+/**
+* domaci - izvuci poslednjih 6 proizvoda i ispisati ih na stranici
+
+*/
+
